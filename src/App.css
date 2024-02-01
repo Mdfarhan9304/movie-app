@@ -1,0 +1,9 @@
+
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    background: linear-gradient(to bottom right, #1f2937, #4b5563);
+    color: white;
+  }
+  
